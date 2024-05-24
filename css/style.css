@@ -1,0 +1,27 @@
+.ms-main-container {
+ margin: 1em 0;
+}
+
+.ms-container-box {
+    display: flex;
+    min-height: 2em;
+    width: 100%;
+    padding: 0.5em;
+    border: 2px solid white;
+    background-color: blue;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.ms-box-green {
+    display: flex;
+    background-color: green;
+    height: 2.5em;
+    width: 100%;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid blue;
+}
